@@ -1,121 +1,118 @@
 <div align="center">
 
-# Hi, I'm Abhijeet Sawant 👋
+# Hi 👋, I'm Abhijeet Sawant
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=AWS+Cloud+%26+DevOps+Engineer;Associate+Cloud+Engineer;AWS+Certified+Solutions+Architect;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Expert;Linux+%7C+GitHub+Actions+%7C+Jenkins;Always+Learning+Cloud+Technologies)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AWS+Cloud+%26+DevOps+Engineer;Associate+Cloud+Engineer;AWS+Certified+Solutions+Architect;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Enthusiast;Always+Learning+New+Cloud+Technologies" />
+
+<img src="https://komarev.com/ghpvc/?username=sawantabhijeet555-ai&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-I'm an **AWS Cloud & DevOps Engineer** from 🇮🇳 India with **2+ years of professional experience** designing, automating and optimizing cloud infrastructure.
+🚀 Associate Cloud Engineer with **2+ years of experience** in AWS Cloud and DevOps.
 
-I enjoy building scalable cloud architectures, automating deployments, reducing infrastructure costs, and creating production-ready DevOps solutions.
+I enjoy designing cloud infrastructure, automating deployments, implementing Infrastructure as Code, and optimizing AWS environments for cost, performance, and scalability.
 
-- 🔭 Working on **AWS Cloud Infrastructure**
-- ☁️ AWS Certified Solutions Architect – Associate
-- ⚙️ Building CI/CD pipelines with GitHub Actions & Jenkins
-- 🐳 Passionate about Docker & Kubernetes
-- 📊 Interested in FinOps & Cloud Cost Optimization
-- 🌱 Currently learning GitOps, ArgoCD & Platform Engineering
-- 💬 Ask me about AWS, Docker, Kubernetes, Linux & Terraform
-- ⚡ Fun Fact: I love solving real-world cloud challenges.
+💡 My interests include:
 
----
-
-# 🛠 Tech Stack
-
-## ☁️ Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp" />
-</p>
-
-## ⚙️ DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,ansible,git,bash" />
-</p>
-
-## 💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,yaml" />
-</p>
-
-## 🐧 Operating Systems
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu" />
-</p>
-
-## 🗄 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
-</p>
-
-## 📈 Monitoring
-
-<p>
-<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
-</p>
+- ☁ AWS Cloud Architecture
+- ⚙ DevOps & Platform Engineering
+- 🐳 Docker & Kubernetes
+- 🚀 CI/CD Automation
+- 📊 Cloud Cost Optimization (FinOps)
+- 🏗 Infrastructure as Code
+- 🔒 Cloud Security Best Practices
 
 ---
 
-# ☁️ AWS Services
+# 💼 Current Focus
+
+🔹 Building scalable AWS Infrastructure
+
+🔹 Kubernetes Deployments
+
+🔹 GitHub Actions & Jenkins Pipelines
+
+🔹 Terraform Automation
+
+🔹 AWS Cost Optimization
+
+🔹 Monitoring with Grafana & CloudWatch
+
+---
+
+# 🚀 Tech Stack
+
+### ☁ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp"/>
+</p>
+
+### ⚙ DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,git,bash,linux"/>
+</p>
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash"/>
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
+</p>
+
+### 📈 Monitoring
+
+<p>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus"/>
+</p>
+
+---
+
+# ☁ AWS Services
 
 <p align="center">
 
-EC2 • VPC • IAM • S3 • CloudFront • Route53 • ALB • Auto Scaling • CloudWatch • CloudTrail • SNS • Lambda • API Gateway • ECR • ECS • EKS • RDS • DynamoDB • AWS Backup • Systems Manager • Secrets Manager • ACM • WAF • Cost Explorer • Budgets • Athena • Glue • QuickSight
+EC2 • IAM • VPC • S3 • Route53 • CloudFront • Lambda • SNS • CloudWatch • CloudTrail • RDS • EBS • EFS • Auto Scaling • Load Balancer • ACM • WAF • Athena • Glue • QuickSight • Cost Explorer • AWS Backup
 
 </p>
 
 ---
 
-# 🚀 DevOps Tools
-
-| Category | Tools |
-|----------|-------|
-| CI/CD | GitHub Actions, Jenkins |
-| Containers | Docker, Kubernetes |
-| IaC | Terraform |
-| Version Control | Git, GitHub |
-| Monitoring | Prometheus, Grafana, CloudWatch |
-| Web Server | Nginx |
-| Linux | Ubuntu, Amazon Linux |
-| Automation | Bash, Python |
-| Cloud | AWS |
-
----
-
-# 🏆 Certifications
+# 🏆 Certification
 
 🥇 AWS Certified Solutions Architect – Associate
 
 ---
 
-# 🚀 Featured Projects
+# 📌 Featured Projects
 
-### ☁️ AWS Cost Optimization
+## ☁ AWS Cost Optimization
 
-✔ Resource Rightsizing
+✔ Rightsizing EC2
 
 ✔ Savings Plans
 
 ✔ Reserved Instances
 
-✔ Cost Reports
+✔ AWS Cost Reports
 
-✔ FinOps Dashboard
+✔ CUR + Athena + QuickSight
 
 ---
 
-### 🌍 CloudFront Migration
+## 🌍 CloudFront Migration
 
-✔ Akamai to AWS CloudFront
+✔ Akamai to CloudFront
 
 ✔ Route53
 
@@ -123,57 +120,41 @@ EC2 • VPC • IAM • S3 • CloudFront • Route53 • ALB • Auto Scaling �
 
 ✔ WAF
 
-✔ Zero Downtime Migration
+✔ Zero Downtime Deployment
 
 ---
 
-### ⚙️ CI/CD Automation
+## 🚀 DevOps Automation
 
 ✔ GitHub Actions
 
 ✔ Jenkins
 
-✔ Docker Build
+✔ Docker
 
-✔ Deployment Automation
+✔ Terraform
 
----
-
-### 🐳 Kubernetes
-
-✔ Pods
-
-✔ Deployments
-
-✔ Services
-
-✔ Ingress
-
-✔ Helm
+✔ Kubernetes
 
 ---
 
-### 🏗 Terraform Infrastructure
+## 📊 Monitoring Stack
 
-✔ EC2
+✔ Prometheus
 
-✔ VPC
+✔ Grafana
 
-✔ IAM
+✔ CloudWatch
 
-✔ S3
-
-✔ CloudFront
-
-✔ Route53
+✔ Alerting
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Statistics
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=sawantabhijeet555-ai&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=sawantabhijeet555-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sawantabhijeet555-ai&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -183,14 +164,40 @@ EC2 • VPC • IAM • S3 • CloudFront • Route53 • ALB • Auto Scaling �
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
-[![Abhijeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sawantabhijeet555-ai&theme=tokyo-night&hide_border=true)](https://github.com/sawantabhijeet555-ai)
+![](https://github-readme-activity-graph.vercel.app/graph?username=sawantabhijeet555-ai&theme=tokyo-night&hide_border=true)
 
 ---
 
+# 🏆 GitHub Trophies
 
-# 🌎 Connect With Me
+![](https://github-profile-trophy.vercel.app/?username=sawantabhijeet555-ai&theme=tokyonight&no-frame=true&row=1&column=7)
+
+---
+
+# 📚 Currently Learning
+
+```text
+✅ Kubernetes (Advanced)
+
+✅ GitOps
+
+✅ ArgoCD
+
+✅ Helm
+
+✅ AWS EKS
+
+✅ Platform Engineering
+
+✅ AI for DevOps
+
+```
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -198,11 +205,11 @@ EC2 • VPC • IAM • S3 • CloudFront • Route53 • ALB • Auto Scaling �
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:YOURMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -212,14 +219,10 @@ EC2 • VPC • IAM • S3 • CloudFront • Route53 • ALB • Auto Scaling �
 
 <div align="center">
 
-## 💡 DevOps Philosophy
+## 💻 DevOps Mindset
 
-> **"Automate everything, monitor everything, and continuously improve."**
+> **"Automate repetitive tasks, simplify infrastructure, and continuously improve reliability."**
 
-<img src="https://komarev.com/ghpvc/?username=sawantabhijeet555-ai&style=for-the-badge&color=blue"/>
-
-[![GitHub followers](https://img.shields.io/github/followers/sawantabhijeet555-ai?style=for-the-badge)](https://github.com/sawantabhijeet555-ai)
-
-[![GitHub Stars](https://img.shields.io/github/stars/sawantabhijeet555-ai?style=for-the-badge)](https://github.com/sawantabhijeet555-ai)
+⭐ If you like my work, consider giving a star to my repositories.
 
 </div>
