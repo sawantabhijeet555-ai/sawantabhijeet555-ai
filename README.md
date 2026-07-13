@@ -205,7 +205,7 @@ EC2 • IAM • VPC • S3 • Route53 • CloudFront • Lambda • SNS • Clo
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/abhijeet-sawant-0849ab138?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<a href="https://www.linkedin.com/in/abhijeet-sawant-0849ab138/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
