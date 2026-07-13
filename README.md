@@ -197,27 +197,21 @@ EC2 • IAM • VPC • S3 • Route53 • CloudFront • Lambda • SNS • Clo
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/sawantabhijeet555-ai">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<a href="https://github.com/sawantabhijeet555-ai">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://www.linkedin.com/in/abhijeet-sawant-0849ab138/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/abhijeet-sawant-0849ab138/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:sawantabhijeet555@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
+  <a href="mailto:sawantabhijeet555@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
----
-
-<div align="center">
 
 ## 💻 DevOps Mindset
 
